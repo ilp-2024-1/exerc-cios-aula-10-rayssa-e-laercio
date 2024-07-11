@@ -59,13 +59,13 @@
 #necessários e informar que o programa encerrou.
 
 
-import random
+#import random
 
-palpite= int(input("digite sua escolha : "))
-n_aleatorio = random.randint(1,100)
+#palpite= int(input("digite sua escolha : "))
+#n_aleatorio = random.randint(1,100)
 
-while(n_aleatorio != palpite):
-        print(n_aleatorio)
-if (n_aleatorio == palpite):
-      palpite +=1
-print(palpite)
+#while(n_aleatorio != palpite):
+#        print(n_aleatorio)
+#if (n_aleatorio == palpite):
+#      palpite +=1
+#print(palpite)
